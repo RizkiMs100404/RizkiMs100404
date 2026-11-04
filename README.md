@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 👋 About Me<br><br>Hi! I'm **Rizki Mustofa**, a Web & Mobile Developer passionate about building modern and user-friendly applications.<br><br>💻 Exploring Web Development, Mobile Development & Software Engineering.<br><br>🚀 Always learning and building something new.
+Hi! I'm **Rizki Mustofa**, a Web & Mobile Developer passionate about building modern and user-friendly applications.<br><br>💻 Exploring Web Development, Mobile Development & Software Engineering.<br><br>🚀 Always learning and building something new.
 
 
 ## 🌐 Socials:
